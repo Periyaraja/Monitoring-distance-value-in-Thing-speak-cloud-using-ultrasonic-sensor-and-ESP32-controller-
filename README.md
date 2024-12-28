@@ -150,9 +150,11 @@ void loop()
 }
 oading Ultrasonic sensor.txt…]()
 
-# CIRCUIT DIAGRAM:![387597119-9e7ac9af-6d98-4d75-8fae-13938d25852e]
-# OUTPUT:![398973627-9e6476fa-eb93-4d33-bf33-e724a1eb7db8]
-![398973716-bada713a-5e39-464d-89d6-90af2adfff93]
+# CIRCUIT DIAGRAM:![387597119-9e7ac9af-6d98-4d75-8fae-13938d25852e](https://github.com/user-attachments/assets/a406ab2b-7571-48d3-9940-fd1f688ebb44)
+
+# OUTPUT:![398973627-9e6476fa-eb93-4d33-bf33-e724a1eb7db8](https://github.com/user-attachments/assets/a19ab59e-f4f2-4d7d-a4ba-0cf0f58ea5d2)
+
+![398973716-bada713a-5e39-464d-89d6-90af2adfff93](https://github.com/user-attachments/assets/73873a7a-f4a5-424d-94e0-6bd0f463ee41)
 
 # RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
