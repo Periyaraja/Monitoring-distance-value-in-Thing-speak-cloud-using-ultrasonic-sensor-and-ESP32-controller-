@@ -1,7 +1,7 @@
 [Ultrasonic sensor.txt](https://github.com/user-attachments/files/18264827/Ultrasonic.sensor.txt)# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
-NAME : Periyaraja
+NAME : Periyaraja.P.M
 REG.NO : 24001966
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
